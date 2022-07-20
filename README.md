@@ -303,5 +303,5 @@ https://www.gcptutorials.com/post/extract-text-from-images-using-keras-ocr-in-py
 https://likegeeks.com/downloading-files-using-python/ 
 
 ## Sample Output from Browser
-![Image](https://github.com/lineality/docker_ubuntu_python_keras/blob/main/bowser_outout_keras_mvp.png)
+![Image](https://github.com/lineality/docker_ubuntu_python_PDF_OCR_api/blob/main/bowser_output_ocr_mvp1.png)
 
