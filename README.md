@@ -286,6 +286,9 @@ sudo docker system df
 
 ## Sources and Resources
 #### use ubuntu, install docker
+- https://docs.docker.com/engine/install/ubuntu/
+
+#### Sources and Resources
 - https://linuxize.com/post/how-to-list-docker-containers/ 
 - https://linuxhandbook.com/remove-docker-images/ 
 - https://docs.docker.com/engine/install/ubuntu/
@@ -298,9 +301,9 @@ sudo docker system df
 - https://stackoverflow.com/questions/55313610/importerror-libgl-so-1-cannot-open-shared-object-file-no-such-file-or-directo 
 - https://www.tensorflow.org/install/
 - https://hub.docker.com/r/tensorflow/tensorflow/ 
-https://www.gcptutorials.com/post/extract-text-from-images-using-keras-ocr-in-python 
+- https://www.gcptutorials.com/post/extract-text-from-images-using-keras-ocr-in-python 
 - https://medium.datadriveninvestor.com/dockerizing-and-hosting-your-flask-web-app-rest-api-on-aws-ec2-9f9c189bf563 
-https://likegeeks.com/downloading-files-using-python/ 
+- https://likegeeks.com/downloading-files-using-python/ 
 
 ## Sample Output from Browser
 ![Image](https://github.com/lineality/docker_ubuntu_python_PDF_OCR_api/blob/main/bowser_output_ocr_mvp1.png)
