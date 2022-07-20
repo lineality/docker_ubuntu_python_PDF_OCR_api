@@ -306,4 +306,4 @@ https://likegeeks.com/downloading-files-using-python/
 ![Image](https://github.com/lineality/docker_ubuntu_python_PDF_OCR_api/blob/main/bowser_output_ocr_mvp1.png)
 
 ## Sample PDF
-![Image](https://github.com/lineality/docker_ubuntu_python_PDF_OCR_api/raw/main/cert1.pdf)
+![Image](https://github.com/lineality/docker_ubuntu_python_PDF_OCR_api/raw/main/cert1.png)
